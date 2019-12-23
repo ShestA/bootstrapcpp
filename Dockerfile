@@ -1,6 +1,6 @@
 FROM alpine:3.10.2
 
-LABEL maintainer="toliakpurple@gmail.com"
+LABEL maintainer=""
 
 COPY CMakeLists.txt /tmp/hunter-preload/CMakeLists.txt
 
